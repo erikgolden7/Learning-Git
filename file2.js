@@ -5,3 +5,7 @@ var journal = [
 var journal2 [
   "This is journal entry number 2"
 ]
+
+var journal3 [
+  "This is journal entry number 3"
+]
